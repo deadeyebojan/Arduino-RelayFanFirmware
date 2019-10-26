@@ -11,6 +11,7 @@
 #define Relay_pin 6
 #define Blink_freq 12
 
+//Test out
 const unsigned int lng_press = 4000;
 const unsigned int srt_press = 2000;
 
